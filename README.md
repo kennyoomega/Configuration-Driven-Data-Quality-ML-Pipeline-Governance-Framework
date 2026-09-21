@@ -1,5 +1,5 @@
 # 12-Step ML Framework — DE Layer (Steps 1–3, 11)
-### Production-grade Data Engineering foundation for end-to-end ML pipelines
+### Configuration-driven Data Engineering foundation for reliable end-to-end ML pipelines
 
 > **Status:** DE Layer complete (Steps 1–3, 11) · MLE Layer in progress (Steps 4–6) · DS Layer upcoming (Steps 7–10)
 
